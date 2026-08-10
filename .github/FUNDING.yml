@@ -1,12 +1,2 @@
-# GitHub-recognised funding config, applied org-wide to repositories that do not ship
-# their own. Surfaces a "Sponsor" button on the repo and on contributor PRs/issues.
-#
-# Deliberately deferred. When a funding destination is opened, uncomment the relevant
-# line(s) and replace the placeholder with the real account.
-#
-# Reference: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
-
-# github: ["TO_BE_CONFIGURED"]            # GitHub Sponsors — e.g. ["gandy42"]
-# ko_fi: TO_BE_CONFIGURED                 # Ko-fi username
-# open_collective: TO_BE_CONFIGURED       # Open Collective slug
-# custom: ["https://example.com/donate"]  # Any other URL
+# Uncomment when a funding destination exists.
+# github: ["gandy42"]

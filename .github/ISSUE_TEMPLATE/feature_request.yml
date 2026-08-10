@@ -2,41 +2,16 @@ name: Feature request
 description: Suggest a capability or change.
 labels: ["enhancement", "triage"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Describe the problem before the solution. Concrete use cases travel further than
-        abstract wishlists.
-
-        **Security issues:** do NOT open a public issue. Use the **Security** tab of this
-        repository and choose **Report a vulnerability**.
   - type: textarea
     id: problem
     attributes:
       label: What problem are you trying to solve?
-      description: What are you trying to accomplish, and what is getting in the way?
+      description: Describe the problem before the solution.
     validations:
       required: true
   - type: textarea
     id: proposal
     attributes:
       label: Proposed solution
-      description: What would you like to happen? Sketch the API or behaviour if relevant.
-    validations:
-      required: true
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives considered
-      description: What did you try, or reject, and why?
     validations:
       required: false
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: Before submitting
-      options:
-        - label: I searched existing issues and this is not a duplicate.
-          required: true
-        - label: This is in scope for the project as described in its README.
-          required: false

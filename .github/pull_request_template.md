@@ -1,37 +1,12 @@
 ## Summary
 
-<!-- What does this PR do? One line. -->
-
-## Changes
-
-<!-- What changed and why. -->
-
--
-
-## Type
-
-<!-- Check one -->
-
-- [ ] `feat` — New feature
-- [ ] `fix` — Bug fix
-- [ ] `refactor` — Code restructuring
-- [ ] `perf` — Performance
-- [ ] `docs` — Documentation
-- [ ] `test` — Test infrastructure
-- [ ] `chore` — Tooling, deps, config
-- [ ] `ci` — CI/CD workflows
-- [ ] `build` — Build-system changes
-- [ ] `revert` — Revert a previous change
+<!-- One line: what does this change and why. -->
 
 ## Checklist
 
-- [ ] The repository's full check command passes locally (lint, types, tests)
-- [ ] Every commit is signed off (`git commit -s`) per the DCO
-- [ ] Commit messages follow Conventional Commits
-- [ ] If this fixes a bug, a regression test is included and it fails without the fix
-- [ ] Documentation updated in the correct Diátaxis quadrant
-- [ ] ADR written or updated if an architectural decision changed
+- [ ] The repository's checks pass locally
+- [ ] Commits are signed off (`git commit -s`) and follow Conventional Commits
+- [ ] A bug fix includes a regression test that fails without the fix
+- [ ] Docs updated
 
-## Related
-
-<!-- Issues, ADRs, prior discussion. Use "Fixes #NNN" to auto-close issues. -->
+<!-- Use "Fixes #NNN" to auto-close an issue. -->
