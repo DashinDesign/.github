@@ -1,0 +1,4 @@
+# Org-wide default. Note: contact_links take literal URLs and cannot be templated
+# per-repository, so the security route is spelled out in each template body instead of
+# linked here.
+blank_issues_enabled: false
