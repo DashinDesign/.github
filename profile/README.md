@@ -1,7 +1,6 @@
 ## Dashin Design
 
-Open-source work from **Dashin Design s.r.o.** — a small studio building developer tools
-and web infrastructure.
+Open-source work from **Dashin Design s.r.o.**
 
 ### What you'll find here
 
@@ -23,5 +22,5 @@ tested. Work that isn't there yet stays private until it is.
 
 ### Elsewhere
 
-- Studio: <https://dashindesign.com>
+- Website: <https://dashin.design/>
 - Maintainer: [@gandy42](https://github.com/gandy42)
