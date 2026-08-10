@@ -11,8 +11,8 @@ tested. Work that isn't there yet stays private until it is.
 
 ### How we work
 
-- **Licensing** is per-repository — check the `LICENSE` file. Library-tier code is
-  permissive; server-tier code is copyleft.
+- **Licensing** is per-repository — check the `LICENSE` file before relying on
+  anything here. Projects are not uniformly licensed: some are permissive, some copyleft.
 - **Contributions** are accepted under the [Developer Certificate of
   Origin](https://developercertificate.org/). Sign your commits off with `git commit -s`.
 - **Commits** follow [Conventional Commits](https://www.conventionalcommits.org/).

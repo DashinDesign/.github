@@ -74,9 +74,9 @@ previous decision means updating its ADR, not silently diverging from it.
 
 ## Licensing
 
-Licensing is per-repository — read the `LICENSE` file before you start. Library-tier code
-in this organization is permissively licensed; server-tier code is copyleft. If a
-contribution's licensing implications are unclear, ask in an issue first.
+Licensing is per-repository — read the `LICENSE` file before you start. Projects here are
+not uniformly licensed: some are permissive, some copyleft. If a contribution's licensing
+implications are unclear, ask in an issue first.
 
 ## Code of Conduct
 
